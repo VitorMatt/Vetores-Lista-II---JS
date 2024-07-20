@@ -5,7 +5,7 @@
 
 let palindromo = [];
 let ePalindromo = false;
-let resposta = prompt('Digite se você quer saber se um número ou uma palavra é palíndromo.').toLowerCase();
+let resposta = prompt('Digite se você quer saber se um número ou uma palavra é um palíndromo.').toLowerCase();
 
 if (resposta=='numero' || resposta=='número'){
 
